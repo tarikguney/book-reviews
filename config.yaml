@@ -1,0 +1,29 @@
+baseURL: 'http://www.bookreviews.io/'
+languageCode: 'en-us'
+title: "Tarik's Book Reviews"
+theme: "PaperMod"
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  homeInfoParams:
+    Title: "Hey, I am Tarik Guney!"
+    Content: "I love reading books! And I often share my reviews about them, which are typically what I learned from them as I was reading. This site is where you will find them. You can find me at LinkedIn and Github!"
+  socialIcons: # optional
+  - name: "linkedin"
+    url: "https://linkedin.com/in/tarikguney"
+  - name: "github"
+    url: "https://github.com/tarikguney"
