@@ -1,5 +1,5 @@
 ---
-title: "Decisive by Dan Heath and Chip Heath"
+title: "The 5 Dysfunctions of a Team by Patrick Lencioni"
 date: 2022-05-20
 # weight: 1
 # aliases: ["/first"]
