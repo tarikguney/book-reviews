@@ -3,7 +3,16 @@ languageCode: 'en-us'
 title: "Tarik's Book Reviews"
 theme: "PaperMod"
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
 params:
+  author: ["Tarik Guney"]
+  keywords: [Book Reviews, Book Review, Tarik Book Reviews]
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -14,16 +23,29 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
   tocopen: false
+  ShowShareButtons: true
   homeInfoParams:
     Title: "Hey, I am Tarik Guney!"
     Content: "I love reading books! And I often share my reviews about them, which are typically what I learned from them as I was reading. This site is where you will find them. You can find me at LinkedIn and Github!"
   socialIcons: # optional
-  - name: "linkedin"
-    url: "https://linkedin.com/in/tarikguney"
-  - name: "github"
-    url: "https://github.com/tarikguney"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/tarikguney"
+    - name: "github"
+      url: "https://github.com/tarikguney"
+  profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+        - name: Archives
+          url: archives
+        - name: Tags
+          url: tags
