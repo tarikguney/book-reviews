@@ -1,0 +1,9 @@
+---
+title: "Understanding Variation by Donald J. Wheeler"
+date: 2021-05-01
+draft: false
+---
+
+Another fantastic read this week. How do you make sense from various data points? Comparing one number to another is weak and limited many times as it won't give enough context. Hence, it would be best if you had a complete picture to compare the numbers in a more global context. For this need, the time series plots come in. But now you have more data to analyze. How do you distinguish signal from noise? Signal will enable you to take action at the right time for the right problem while preserving your resources. Here, the term variation comes in. Variation is a naturally and randomly occurring component that causes ups and downs in a metric even though the numbers come from the same process. This book, by using statistical process control, offers a new chart called process behavior chart. It helps you find the upper and lower bounds of the time series so you can, by eliminating the routine variation in the data set, can focus on the variation that tells you something has changed in the underlying process, which is called exceptional variation. It also helps you make predictions for the future.
+
+I found out about this book while reading Amazon 's Working Backwards book (I like checking the referenced materials in a book), and there are some places I want to use Process Behavior Chart. One of them is to see how a process change I made in my teams manifests in various metrics and if they cause any exceptional variation to prove that it works. Think about a metric like Pull Request Review Waiting Times. Such leading indicators will be helpful to understand the team performance better but not enough. You also need other metrics to see what else is affected by changes made to improve PR wait times. But in all of them, the variation will occur, and I don't want to spend our time on routine variation.
