@@ -1,32 +1,7 @@
 ---
 title: "The 5 Dysfunctions of a Team by Patrick Lencioni"
 date: 2022-05-20
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-author: "Tarik Guney"
-# author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-description: ""
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-editPost:
-    URL: "https://github.com/tarikguney/book-reviews/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 My review of The 5 Dysfunctions of a Team by Patrick Lencioni

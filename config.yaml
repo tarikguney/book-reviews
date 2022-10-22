@@ -21,6 +21,7 @@ params:
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
+  DateFormat: "January 2, 2006"
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
@@ -31,21 +32,13 @@ params:
   ShowShareButtons: true
   homeInfoParams:
     Title: "Hey, I am Tarik Guney!"
-    Content: "I love reading books! And I often share my reviews about them, which are typically what I learned from them as I was reading. This site is where you will find them. You can find me at LinkedIn and Github!"
-  socialIcons: # optional
+    Content: "I love reading books! And I often share my reviews of them, which are typically what I learned as I was reading. You can find my book reviews on this site. You can find me at LinkedIn and Github!"
+  socialIcons:
     - name: "linkedin"
       url: "https://linkedin.com/in/tarikguney"
     - name: "github"
       url: "https://github.com/tarikguney"
-  profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
-    buttons:
-        - name: Archives
-          url: archives
-        - name: Tags
-          url: tags
+  editPost:
+    URL: "https://github.com/tarikguney/book-reviews/blob/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link

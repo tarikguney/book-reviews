@@ -1,32 +1,7 @@
 ---
 title: "Decisive by Dan Heath and Chip Heath"
 date: 2022-10-20
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-author: "Tarik Guney"
-# author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-description: ""
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-editPost:
-    URL: "https://github.com/tarikguney/book-reviews/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 It has been refreshing to read a well-written book for some time. Decisive will take its place in my top books. Let's review it.
