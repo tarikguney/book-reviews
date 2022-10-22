@@ -1,7 +1,7 @@
 ---
 title: "Start With Why by Simon Sinek"
 date: 2021-07-01
-draft: true
+draft: false
 ---
 
 The message of the book is straightforward. Start with Why instead of what and how. Several takeaways from the book: 
