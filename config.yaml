@@ -43,3 +43,6 @@ params:
     URL: "https://github.com/tarikguney/book-reviews/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
+    analytics:
+    google:
+      SiteVerificationTag: "G-F2VK238TWC"
