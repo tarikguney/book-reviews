@@ -33,7 +33,7 @@ params:
   ShowShareButtons: true
   homeInfoParams:
     Title: "Hey, I am Tarik Guney!"
-    Content: "I love reading books! And I often share my reviews of them, which are typically what I learned as I was reading. You can find my book reviews on this site. You can find me at LinkedIn and Github!"
+    Content: "I love reading books! And I often share my reviews/summaries of them, which are typically what I learned as I was reading. You can find my book reviews on this site. You can find me at LinkedIn and Github!"
   socialIcons:
     - name: "linkedin"
       url: "https://linkedin.com/in/tarikguney"
