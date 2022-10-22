@@ -2,6 +2,7 @@ baseURL: 'http://www.bookreviews.io/'
 languageCode: 'en-us'
 title: "Tarik's Book Reviews"
 theme: "PaperMod"
+paginate: 10
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
