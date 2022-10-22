@@ -1,0 +1,7 @@
+---
+title: "High Output Management by Andy Grove"
+date: 2021-04-15
+draft: false
+---
+
+Yesterday, I completed one more book, "High-Output Management by Andy Grove". What a fantastic read. It reminded me of the complexities of the work I do every single day as an engineering manager. While changing companies, I wanted to look at the number of tasks I completed last year; it is 2348. It does NOT include regular meetings like backlog grooming, one-on-ones, etc., and the work I track with email. It represents how much extra mile I went to support my teams. It is a similar but an early realization that I had in the first few months of my management experience that taught me how to work with my managers. Therefore, even if I disagree with them, I always fully commit myself to our success in the end. Management is to work in the lands of constant uncertainties, ambiguities, and complexities. As a software engineer, if you find your job straightforward and simple enough to make progress, hence having a significant impact, the role of managers in that impact is immense. Though, it is not visible all the time. I truly enjoy finding new ways of supporting my teams and adding a few drops of my style into the mixture. Andy Grove, with his concise and straight communication, taught me how to pursue success in what I love doing in his own way.
