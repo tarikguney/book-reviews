@@ -1,0 +1,7 @@
+---
+title: "Act Like a Leader Think Like a Leader by Hermenia Ibarra"
+date: 2019-10-22
+draft: false
+---
+
+I have recently finished the following books, and they took their place in my influential books list. The insights in these books change your perceptions and conceptions forever. Interestingly they complete each other, as well. One tells you to act first before in-depth introspection as the name suggests "Act like a leader..." first, and the other explains what reasons could prevent your significant change towards a new you. The real stories in the Immunity to Change book resonate with you as we are not so different from one another at our underlying worries, which fortify our immunity to change. However, we can't tell if we can change or sincerely want to change without acting towards it as the "Act like a leader..." book suggests. Hence, they form a sweet balance. The intersection of these books is: You genuinely appreciate your immunity and how it affects your mindset if you actually in the middle of transforming yourself rather than merely thinking about it and waiting for a magical moment that changes you upsidedown. Hence, act first, find out your underlying commitments that block your change, and act again, and live in that loop.
